@@ -1,0 +1,18 @@
+.home_banner_area .banner_inner .banner_content .media .d-flex {
+    padding-right: 75px;
+}
+
+.home_banner_area .banner_inner .banner_content img {
+    width: 550px;
+}
+
+.feature_item {
+    height: 370px;
+}
+
+
+.vision_item {
+    text-align: center;
+    align-items: center;
+    padding-top: 80px;
+}
